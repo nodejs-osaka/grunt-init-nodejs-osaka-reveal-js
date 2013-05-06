@@ -1,0 +1,23 @@
+{
+  "name": "grunt-init-nodejs-osaka-reveal-js",
+  "version": "0.0.0",
+  "description": "新発表システムを作るためのgrunt-initタスク",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejs-osaka/grunt-init-nodejs-osaka-reveal-js.git"
+  },
+  "keywords": [
+    "node",
+    "osaka",
+    "init"
+  ],
+  "author": "Martin Heidegger <martin.heidegger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.21.0"
+  }
+}
