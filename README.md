@@ -12,6 +12,6 @@ grunt-init-nodejs-osaka-reveal.js
 ------
 新しいフォルダーを作るとそのフォルダーの中で
 
-   $ grunt-init node-osaka
+    $ grunt-init node-osaka
 
 読んで下さい。終わり。
